@@ -1,0 +1,2 @@
+git config --global user.name "Alex Myers"
+git config --global user.email Mye20008@byui.edu
