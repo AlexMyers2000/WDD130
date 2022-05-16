@@ -7,7 +7,7 @@
     bottom: -40px;
   }
   
-  #pyramid-level-3 {
+  #rectangle-level-3 {
       border-bottom: 50px solid blue;
       border-left: 25px solid transparent;
       border-right: 25px solid transparent;
@@ -17,7 +17,7 @@
       margin-left:auto;
   }
   
-  #pyramid-level-2 {
+  #rectangle-level-2 {
       border-bottom: 50px solid green;
       border-left: 25px solid transparent;
       border-right: 25px solid transparent;
@@ -27,7 +27,7 @@
       margin-left:auto;
   }
   
-  #pyramid-level-1 {
+  #rectangle-level-1 {
     position: relative;
       border-bottom: 50px solid red;
       border-left: 25px solid transparent;
